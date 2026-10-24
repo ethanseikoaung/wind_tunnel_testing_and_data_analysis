@@ -1,1 +1,1 @@
-# wind_tunnel_testing_and_data_analysis
+# Wing Tunnel Testing and Data Analysis
