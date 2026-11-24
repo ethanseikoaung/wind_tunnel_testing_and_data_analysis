@@ -1,15 +1,15 @@
 # Wing Tunnel Testing and Data Analysis
 
-#### **About**
+## **About**
 
 - Analyzed how aerodynamic forces act on an airfoil by simulating various flight conditions in a wind tunnel.
 
-#### **Process**
+## **Process**
 
 - Collected normal force, axial force, and pitching moment data for the airfoil from $-2^\circ$ to $18^\circ$ angle of attack (AOA) across three airspeeds ($20$, $30$, and $40\text{ m/s}$).
 - Calculated the coefficients of lift ($C_L$), drag ($C_D$), and pitching moment ($C_M$) from the raw load data in MATLAB.
 
-#### **Results**
+## **Results**
 
 | Metric | $V = 20\text{ m/s}$ | $V = 30\text{ m/s}$ | $V = 40\text{ m/s}$ |
 | :--- | :---: | :---: | :---: |
