@@ -20,6 +20,6 @@
 | **Max Lift Coefficient ($C_{L,\max}$)** | $0.74$ | $0.78$ | $0.83$ |
 | **Stall AOA ($\alpha_{\text{stall}}$)** | $13^\circ$ | $13^\circ$ | $14^\circ$ |
 
-- The experimental data indicates that both the maximum lift coefficient ($C_{L,\max}$) and stall angle of attack increase slightly at higher Reynolds numbers due to delayed boundary layer separation.
+- The experimental data indicates that both the maximum lift coefficient ($C_{Lmax}$) and stall angle of attack increase slightly at higher Reynolds numbers due to delayed boundary layer separation.
 
 </aside>
