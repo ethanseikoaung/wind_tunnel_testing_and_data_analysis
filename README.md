@@ -20,12 +20,12 @@
 
 - The experimental data indicates that both the maximum lift coefficient ($C_{Lmax}$) and stall angle of attack increase slightly at higher Reynolds numbers due to delayed boundary layer separation.
 
-*Coefficient of Lift Vs. Angle of Attack
+###Coefficient of Lift Vs. Angle of Attack
 <img width="1800" height="900" alt="c_l" src="https://github.com/user-attachments/assets/2d5e76b9-944f-4021-ac23-6825fcb260d3" />
 
-*Coefficient of Drag Vs. Angle of Attack
+###Coefficient of Drag Vs. Angle of Attack
 <img width="1800" height="900" alt="c_d" src="https://github.com/user-attachments/assets/1ee776c6-726a-4c56-aa4a-02449d8eea6b" />
 
-*Coefficient of Pitch Moment Vs. Angle of Attack
+###Coefficient of Pitch Moment Vs. Angle of Attack
 <img width="1800" height="900" alt="c_m" src="https://github.com/user-attachments/assets/7108e54d-9d9c-4df7-b6f0-5909b6adba59" />
 
